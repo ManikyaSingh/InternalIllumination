@@ -1,0 +1,20 @@
+HOW TO RUN
+1. g++ test2.cpp -std=c++11
+2. ./a.out
+
+Typical input values:
+
+0
+25
+255
+255
+255
+0
+icos_out
+icos.off
+0
+2.5
+30
+40
+0
+1.2
